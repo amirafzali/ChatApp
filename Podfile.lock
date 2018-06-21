@@ -1,0 +1,29 @@
+PODS:
+  - Alamofire (4.7.2)
+  - Hero (1.2.0)
+  - PhoneNumberKit (2.1.0):
+    - PhoneNumberKit/PhoneNumberKitCore (= 2.1.0)
+    - PhoneNumberKit/UIKit (= 2.1.0)
+  - PhoneNumberKit/PhoneNumberKitCore (2.1.0)
+  - PhoneNumberKit/UIKit (2.1.0):
+    - PhoneNumberKit/PhoneNumberKitCore
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - Hero
+  - PhoneNumberKit (~> 2.1)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Hero
+    - PhoneNumberKit
+
+SPEC CHECKSUMS:
+  Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  Hero: 33dadf2cd1c98af71e213dcbc2902e6e03622a4e
+  PhoneNumberKit: 62003f40ff75315fd3738286558bc365365ac222
+
+PODFILE CHECKSUM: ad12fb4164c174fe6583f0d8d41cbcb505829114
+
+COCOAPODS: 1.5.0

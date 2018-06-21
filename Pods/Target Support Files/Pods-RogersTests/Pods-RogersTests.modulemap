@@ -1,0 +1,6 @@
+framework module Pods_RogersTests {
+  umbrella header "Pods-RogersTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
