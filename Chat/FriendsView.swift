@@ -1,6 +1,6 @@
 //
 //  FriendsView.swift
-//  Rogers
+//  Chat
 //
 //  Created by Amir Afzali on 2018-05-03.
 //  Copyright © 2018 Amir. All rights reserved.

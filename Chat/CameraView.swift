@@ -1,6 +1,6 @@
 //
 //  CameraView.swift
-//  Rogers
+//  Chat
 //
 //  Created by Amir Afzali on 2018-05-02.
 //  Copyright © 2018 Amir. All rights reserved.

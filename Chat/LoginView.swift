@@ -1,6 +1,6 @@
 //
 //  Login.swift
-//  Rogers
+//  Chat
 //
 //  Created by Amir Afzali on 2018-04-18.
 //  Copyright © 2018 Amir. All rights reserved.
