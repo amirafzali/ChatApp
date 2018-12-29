@@ -1,0 +1,10 @@
+framework module Hero {
+  umbrella header "Hero-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module Hero.__Swift {
+    exclude header "Hero-Swift.h"
+}

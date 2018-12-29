@@ -1,0 +1,370 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "4Hero0A10TransitionC"
+provides-member:
+- ["4Hero0A10TransitionC", ""]
+provides-dynamic-lookup:
+- "tabBarController"
+depends-top-level:
+- !private "!"
+- !private "!=="
+- !private ">"
+- !private "??"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "HeroTransition"
+- "UITabBarController"
+- "UITabBarControllerDelegate"
+- "UIViewController"
+- "UIViewControllerAnimatedTransitioning"
+- "UIViewControllerInteractiveTransitioning"
+depends-member:
+- !private ["Sa", "index"]
+- !private ["s13ArrayProtocolP", "index"]
+- !private ["SK", "index"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "cancel"]
+- !private ["s7CVarArgP", "childViewControllers"]
+- !private ["s7CVarArgP", "fromViewController"]
+- !private ["s7CVarArgP", "inTabBarController"]
+- !private ["s7CVarArgP", "index"]
+- !private ["s7CVarArgP", "interactiveTransitioning"]
+- !private ["s7CVarArgP", "isPresenting"]
+- !private ["s7CVarArgP", "isTransitioning"]
+- !private ["s7CVarArgP", "selectedViewController"]
+- !private ["s7CVarArgP", "state"]
+- ["s7CVarArgP", "tabBarController"]
+- ["s7CVarArgP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["s7CVarArgP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["s7CVarArgP", "toViewController"]
+- !private ["Sl", "index"]
+- !private ["s28CustomDebugStringConvertibleP", "cancel"]
+- !private ["s28CustomDebugStringConvertibleP", "childViewControllers"]
+- !private ["s28CustomDebugStringConvertibleP", "fromViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "inTabBarController"]
+- !private ["s28CustomDebugStringConvertibleP", "index"]
+- !private ["s28CustomDebugStringConvertibleP", "interactiveTransitioning"]
+- !private ["s28CustomDebugStringConvertibleP", "isPresenting"]
+- !private ["s28CustomDebugStringConvertibleP", "isTransitioning"]
+- !private ["s28CustomDebugStringConvertibleP", "selectedViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "state"]
+- ["s28CustomDebugStringConvertibleP", "tabBarController"]
+- ["s28CustomDebugStringConvertibleP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["s28CustomDebugStringConvertibleP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["s28CustomDebugStringConvertibleP", "toViewController"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "index"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "cancel"]
+- !private ["s23CustomStringConvertibleP", "childViewControllers"]
+- !private ["s23CustomStringConvertibleP", "fromViewController"]
+- !private ["s23CustomStringConvertibleP", "inTabBarController"]
+- !private ["s23CustomStringConvertibleP", "index"]
+- !private ["s23CustomStringConvertibleP", "interactiveTransitioning"]
+- !private ["s23CustomStringConvertibleP", "isPresenting"]
+- !private ["s23CustomStringConvertibleP", "isTransitioning"]
+- !private ["s23CustomStringConvertibleP", "selectedViewController"]
+- !private ["s23CustomStringConvertibleP", "state"]
+- ["s23CustomStringConvertibleP", "tabBarController"]
+- ["s23CustomStringConvertibleP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["s23CustomStringConvertibleP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["s23CustomStringConvertibleP", "toViewController"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "index"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "index"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "cancel"]
+- !private ["SQ", "childViewControllers"]
+- !private ["SQ", "fromViewController"]
+- !private ["SQ", "inTabBarController"]
+- !private ["SQ", "index"]
+- !private ["SQ", "interactiveTransitioning"]
+- !private ["SQ", "isPresenting"]
+- !private ["SQ", "isTransitioning"]
+- !private ["SQ", "notified"]
+- !private ["SQ", "selectedViewController"]
+- !private ["SQ", "state"]
+- ["SQ", "tabBarController"]
+- ["SQ", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["SQ", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["SQ", "toViewController"]
+- !private ["s25ExpressibleByArrayLiteralP", "index"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "cancel"]
+- !private ["SH", "childViewControllers"]
+- !private ["SH", "fromViewController"]
+- !private ["SH", "inTabBarController"]
+- !private ["SH", "index"]
+- !private ["SH", "interactiveTransitioning"]
+- !private ["SH", "isPresenting"]
+- !private ["SH", "isTransitioning"]
+- !private ["SH", "notified"]
+- !private ["SH", "selectedViewController"]
+- !private ["SH", "state"]
+- ["SH", "tabBarController"]
+- ["SH", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["SH", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["SH", "toViewController"]
+- !private ["4Hero0A10CompatibleP", "childViewControllers"]
+- !private ["4Hero0A10CompatibleP", "selectedViewController"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "cancel"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "fromViewController"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "inTabBarController"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "interactiveTransitioning"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "isPresenting"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "isTransitioning"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "state"]
+- ["4Hero0A22ProgressRunnerDelegateP", "tabBarController"]
+- ["4Hero0A22ProgressRunnerDelegateP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["4Hero0A22ProgressRunnerDelegateP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "toViewController"]
+- ["4Hero0A10TransitionC", "Bool"]
+- ["4Hero0A10TransitionC", "UITabBarController"]
+- ["4Hero0A10TransitionC", "UIViewController"]
+- ["4Hero0A10TransitionC", "UIViewControllerAnimatedTransitioning"]
+- ["4Hero0A10TransitionC", "UIViewControllerInteractiveTransitioning"]
+- !private ["4Hero0A10TransitionC", "cancel"]
+- ["4Hero0A10TransitionC", "deinit"]
+- !private ["4Hero0A10TransitionC", "fromViewController"]
+- !private ["4Hero0A10TransitionC", "inTabBarController"]
+- !private ["4Hero0A10TransitionC", "interactiveTransitioning"]
+- !private ["4Hero0A10TransitionC", "isPresenting"]
+- !private ["4Hero0A10TransitionC", "isTransitioning"]
+- !private ["4Hero0A10TransitionC", "state"]
+- ["4Hero0A10TransitionC", "tabBarController"]
+- ["4Hero0A10TransitionC", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["4Hero0A10TransitionC", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["4Hero0A10TransitionC", "toViewController"]
+- !private ["4Hero0A15TransitionStateO", "notified"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["SM", "index"]
+- !private ["So8NSCodingP", "childViewControllers"]
+- !private ["So8NSCodingP", "selectedViewController"]
+- !private ["So26NSExtensionRequestHandlingP", "childViewControllers"]
+- !private ["So26NSExtensionRequestHandlingP", "selectedViewController"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "UITabBarController"]
+- ["So8NSObjectC", "UIViewController"]
+- ["So8NSObjectC", "UIViewControllerAnimatedTransitioning"]
+- ["So8NSObjectC", "UIViewControllerInteractiveTransitioning"]
+- !private ["So8NSObjectC", "cancel"]
+- !private ["So8NSObjectC", "childViewControllers"]
+- !private ["So8NSObjectC", "fromViewController"]
+- !private ["So8NSObjectC", "inTabBarController"]
+- !private ["So8NSObjectC", "interactiveTransitioning"]
+- !private ["So8NSObjectC", "isPresenting"]
+- !private ["So8NSObjectC", "isTransitioning"]
+- !private ["So8NSObjectC", "selectedViewController"]
+- !private ["So8NSObjectC", "state"]
+- ["So8NSObjectC", "tabBarController"]
+- ["So8NSObjectC", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["So8NSObjectC", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["So8NSObjectC", "toViewController"]
+- !private ["So8NSObjectP", "cancel"]
+- !private ["So8NSObjectP", "childViewControllers"]
+- !private ["So8NSObjectP", "fromViewController"]
+- !private ["So8NSObjectP", "inTabBarController"]
+- !private ["So8NSObjectP", "interactiveTransitioning"]
+- !private ["So8NSObjectP", "isPresenting"]
+- !private ["So8NSObjectP", "isTransitioning"]
+- !private ["So8NSObjectP", "selectedViewController"]
+- !private ["So8NSObjectP", "state"]
+- ["So8NSObjectP", "tabBarController"]
+- ["So8NSObjectP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["So8NSObjectP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["So8NSObjectP", "toViewController"]
+- !private ["Sk", "index"]
+- !private ["Sm", "index"]
+- !private ["SY", "notified"]
+- !private ["ST", "index"]
+- !private ["So21UIAppearanceContainerP", "childViewControllers"]
+- !private ["So21UIAppearanceContainerP", "selectedViewController"]
+- !private ["So18UIContentContainerP", "childViewControllers"]
+- !private ["So18UIContentContainerP", "selectedViewController"]
+- !private ["So18UIFocusEnvironmentP", "childViewControllers"]
+- !private ["So18UIFocusEnvironmentP", "selectedViewController"]
+- !private ["So30UINavigationControllerDelegateP", "cancel"]
+- !private ["So30UINavigationControllerDelegateP", "fromViewController"]
+- !private ["So30UINavigationControllerDelegateP", "inTabBarController"]
+- !private ["So30UINavigationControllerDelegateP", "interactiveTransitioning"]
+- !private ["So30UINavigationControllerDelegateP", "isPresenting"]
+- !private ["So30UINavigationControllerDelegateP", "isTransitioning"]
+- !private ["So30UINavigationControllerDelegateP", "state"]
+- ["So30UINavigationControllerDelegateP", "tabBarController"]
+- ["So30UINavigationControllerDelegateP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["So30UINavigationControllerDelegateP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["So30UINavigationControllerDelegateP", "toViewController"]
+- !private ["So30UIPasteConfigurationSupportingP", "childViewControllers"]
+- !private ["So30UIPasteConfigurationSupportingP", "selectedViewController"]
+- !private ["So11UIResponderC", "childViewControllers"]
+- !private ["So11UIResponderC", "selectedViewController"]
+- !private ["So30UIResponderStandardEditActionsP", "childViewControllers"]
+- !private ["So30UIResponderStandardEditActionsP", "selectedViewController"]
+- !private ["So16UIStateRestoringP", "childViewControllers"]
+- !private ["So16UIStateRestoringP", "selectedViewController"]
+- !private ["So18UITabBarControllerC", "childViewControllers"]
+- !private ["So18UITabBarControllerC", "selectedViewController"]
+- ["So26UITabBarControllerDelegateP", ""]
+- !private ["So26UITabBarControllerDelegateP", "cancel"]
+- !private ["So26UITabBarControllerDelegateP", "fromViewController"]
+- !private ["So26UITabBarControllerDelegateP", "inTabBarController"]
+- !private ["So26UITabBarControllerDelegateP", "interactiveTransitioning"]
+- !private ["So26UITabBarControllerDelegateP", "isPresenting"]
+- !private ["So26UITabBarControllerDelegateP", "isTransitioning"]
+- !private ["So26UITabBarControllerDelegateP", "state"]
+- ["So26UITabBarControllerDelegateP", "tabBarController"]
+- ["So26UITabBarControllerDelegateP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["So26UITabBarControllerDelegateP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["So26UITabBarControllerDelegateP", "toViewController"]
+- !private ["So16UITabBarDelegateP", "childViewControllers"]
+- !private ["So16UITabBarDelegateP", "selectedViewController"]
+- !private ["So18UITraitEnvironmentP", "childViewControllers"]
+- !private ["So18UITraitEnvironmentP", "selectedViewController"]
+- !private ["So23UIUserActivityRestoringP", "childViewControllers"]
+- !private ["So23UIUserActivityRestoringP", "selectedViewController"]
+- !private ["So16UIViewControllerC", "childViewControllers"]
+- !private ["So16UIViewControllerC", "selectedViewController"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "cancel"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "fromViewController"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "inTabBarController"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "interactiveTransitioning"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "isPresenting"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "isTransitioning"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "state"]
+- ["So37UIViewControllerAnimatedTransitioningP", "tabBarController"]
+- ["So37UIViewControllerAnimatedTransitioningP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["So37UIViewControllerAnimatedTransitioningP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "toViewController"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "cancel"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "fromViewController"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "inTabBarController"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "interactiveTransitioning"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "isPresenting"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "isTransitioning"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "state"]
+- ["So40UIViewControllerInteractiveTransitioningP", "tabBarController"]
+- ["So40UIViewControllerInteractiveTransitioningP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["So40UIViewControllerInteractiveTransitioningP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "toViewController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "cancel"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "fromViewController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "inTabBarController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "interactiveTransitioning"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "isPresenting"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "isTransitioning"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "state"]
+- ["So37UIViewControllerTransitioningDelegateP", "tabBarController"]
+- ["So37UIViewControllerTransitioningDelegateP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["So37UIViewControllerTransitioningDelegateP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "toViewController"]
+- !private ["s24_DestructorSafeContainerP", "index"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "index"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cancel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "childViewControllers"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fromViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "inTabBarController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "interactiveTransitioning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isPresenting"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isTransitioning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "selectedViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "state"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tabBarController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tabBarControllerPreferredInterfaceOrientationForPresentation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "tabBarControllerSupportedInterfaceOrientations"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "toViewController"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "index"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "Sl"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "SH"
+- !private "4Hero0A10CompatibleP"
+- "4Hero0A22ProgressRunnerDelegateP"
+- "4Hero0A10TransitionC"
+- !private "4Hero0A15TransitionStateO"
+- !private "s25LosslessStringConvertibleP"
+- !private "SM"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So18UIFocusEnvironmentP"
+- "So30UINavigationControllerDelegateP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- !private "So18UITabBarControllerC"
+- "So26UITabBarControllerDelegateP"
+- !private "So16UITabBarDelegateP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So16UIViewControllerC"
+- "So37UIViewControllerAnimatedTransitioningP"
+- "So40UIViewControllerInteractiveTransitioningP"
+- "So37UIViewControllerTransitioningDelegateP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MetalKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/ned/XCode/rogers 1/Chat/Pods/Target Support Files/Hero/Hero-umbrella.h"
+- "/Users/ned/XCode/rogers 1/Chat/build/Pods.build/Debug-iphonesimulator/Hero.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/MetalKit.framework/Headers/MetalKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "fa956cf7ea02fb7302eafae42740f5e0"

@@ -1,0 +1,267 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+- "4Hero0A10TransitionC"
+provides-member:
+- ["4Hero0A10TransitionC", ""]
+provides-dynamic-lookup:
+- "navigationController"
+depends-top-level:
+- !private "!"
+- !private "=="
+- !private "??"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "HeroTransition"
+- "UINavigationController"
+- "UINavigationControllerDelegate"
+- "UINavigationControllerOperation"
+- "UIViewController"
+- "UIViewControllerAnimatedTransitioning"
+- "UIViewControllerInteractiveTransitioning"
+depends-member:
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "fromViewController"]
+- !private ["s7CVarArgP", "inNavigationController"]
+- !private ["s7CVarArgP", "interactiveTransitioning"]
+- !private ["s7CVarArgP", "isPresenting"]
+- !private ["s7CVarArgP", "isTransitioning"]
+- ["s7CVarArgP", "navigationController"]
+- ["s7CVarArgP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["s7CVarArgP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["s7CVarArgP", "state"]
+- !private ["s7CVarArgP", "toViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "fromViewController"]
+- !private ["s28CustomDebugStringConvertibleP", "inNavigationController"]
+- !private ["s28CustomDebugStringConvertibleP", "interactiveTransitioning"]
+- !private ["s28CustomDebugStringConvertibleP", "isPresenting"]
+- !private ["s28CustomDebugStringConvertibleP", "isTransitioning"]
+- ["s28CustomDebugStringConvertibleP", "navigationController"]
+- ["s28CustomDebugStringConvertibleP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["s28CustomDebugStringConvertibleP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["s28CustomDebugStringConvertibleP", "state"]
+- !private ["s28CustomDebugStringConvertibleP", "toViewController"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "fromViewController"]
+- !private ["s23CustomStringConvertibleP", "inNavigationController"]
+- !private ["s23CustomStringConvertibleP", "interactiveTransitioning"]
+- !private ["s23CustomStringConvertibleP", "isPresenting"]
+- !private ["s23CustomStringConvertibleP", "isTransitioning"]
+- ["s23CustomStringConvertibleP", "navigationController"]
+- ["s23CustomStringConvertibleP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["s23CustomStringConvertibleP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["s23CustomStringConvertibleP", "state"]
+- !private ["s23CustomStringConvertibleP", "toViewController"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "fromViewController"]
+- !private ["SQ", "inNavigationController"]
+- !private ["SQ", "interactiveTransitioning"]
+- !private ["SQ", "isPresenting"]
+- !private ["SQ", "isTransitioning"]
+- ["SQ", "navigationController"]
+- ["SQ", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["SQ", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["SQ", "notified"]
+- !private ["SQ", "push"]
+- !private ["SQ", "state"]
+- !private ["SQ", "toViewController"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "fromViewController"]
+- !private ["SH", "inNavigationController"]
+- !private ["SH", "interactiveTransitioning"]
+- !private ["SH", "isPresenting"]
+- !private ["SH", "isTransitioning"]
+- ["SH", "navigationController"]
+- ["SH", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["SH", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["SH", "notified"]
+- !private ["SH", "push"]
+- !private ["SH", "state"]
+- !private ["SH", "toViewController"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "fromViewController"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "inNavigationController"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "interactiveTransitioning"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "isPresenting"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "isTransitioning"]
+- ["4Hero0A22ProgressRunnerDelegateP", "navigationController"]
+- ["4Hero0A22ProgressRunnerDelegateP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["4Hero0A22ProgressRunnerDelegateP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "state"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "toViewController"]
+- ["4Hero0A10TransitionC", "UINavigationController"]
+- ["4Hero0A10TransitionC", "UINavigationControllerOperation"]
+- ["4Hero0A10TransitionC", "UIViewController"]
+- ["4Hero0A10TransitionC", "UIViewControllerAnimatedTransitioning"]
+- ["4Hero0A10TransitionC", "UIViewControllerInteractiveTransitioning"]
+- ["4Hero0A10TransitionC", "deinit"]
+- !private ["4Hero0A10TransitionC", "fromViewController"]
+- !private ["4Hero0A10TransitionC", "inNavigationController"]
+- !private ["4Hero0A10TransitionC", "interactiveTransitioning"]
+- !private ["4Hero0A10TransitionC", "isPresenting"]
+- !private ["4Hero0A10TransitionC", "isTransitioning"]
+- ["4Hero0A10TransitionC", "navigationController"]
+- ["4Hero0A10TransitionC", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["4Hero0A10TransitionC", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["4Hero0A10TransitionC", "state"]
+- !private ["4Hero0A10TransitionC", "toViewController"]
+- !private ["4Hero0A15TransitionStateO", "notified"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["So8NSObjectC", "UINavigationController"]
+- ["So8NSObjectC", "UINavigationControllerOperation"]
+- ["So8NSObjectC", "UIViewController"]
+- ["So8NSObjectC", "UIViewControllerAnimatedTransitioning"]
+- ["So8NSObjectC", "UIViewControllerInteractiveTransitioning"]
+- !private ["So8NSObjectC", "fromViewController"]
+- !private ["So8NSObjectC", "inNavigationController"]
+- !private ["So8NSObjectC", "interactiveTransitioning"]
+- !private ["So8NSObjectC", "isPresenting"]
+- !private ["So8NSObjectC", "isTransitioning"]
+- ["So8NSObjectC", "navigationController"]
+- ["So8NSObjectC", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So8NSObjectC", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So8NSObjectC", "state"]
+- !private ["So8NSObjectC", "toViewController"]
+- !private ["So8NSObjectP", "fromViewController"]
+- !private ["So8NSObjectP", "inNavigationController"]
+- !private ["So8NSObjectP", "interactiveTransitioning"]
+- !private ["So8NSObjectP", "isPresenting"]
+- !private ["So8NSObjectP", "isTransitioning"]
+- ["So8NSObjectP", "navigationController"]
+- ["So8NSObjectP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So8NSObjectP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So8NSObjectP", "state"]
+- !private ["So8NSObjectP", "toViewController"]
+- !private ["So31UINavigationControllerOperationV", "push"]
+- !private ["SY", "notified"]
+- !private ["SY", "push"]
+- ["So30UINavigationControllerDelegateP", ""]
+- !private ["So30UINavigationControllerDelegateP", "fromViewController"]
+- !private ["So30UINavigationControllerDelegateP", "inNavigationController"]
+- !private ["So30UINavigationControllerDelegateP", "interactiveTransitioning"]
+- !private ["So30UINavigationControllerDelegateP", "isPresenting"]
+- !private ["So30UINavigationControllerDelegateP", "isTransitioning"]
+- ["So30UINavigationControllerDelegateP", "navigationController"]
+- ["So30UINavigationControllerDelegateP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So30UINavigationControllerDelegateP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So30UINavigationControllerDelegateP", "state"]
+- !private ["So30UINavigationControllerDelegateP", "toViewController"]
+- !private ["So26UITabBarControllerDelegateP", "fromViewController"]
+- !private ["So26UITabBarControllerDelegateP", "inNavigationController"]
+- !private ["So26UITabBarControllerDelegateP", "interactiveTransitioning"]
+- !private ["So26UITabBarControllerDelegateP", "isPresenting"]
+- !private ["So26UITabBarControllerDelegateP", "isTransitioning"]
+- ["So26UITabBarControllerDelegateP", "navigationController"]
+- ["So26UITabBarControllerDelegateP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So26UITabBarControllerDelegateP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So26UITabBarControllerDelegateP", "state"]
+- !private ["So26UITabBarControllerDelegateP", "toViewController"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "fromViewController"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "inNavigationController"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "interactiveTransitioning"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "isPresenting"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "isTransitioning"]
+- ["So37UIViewControllerAnimatedTransitioningP", "navigationController"]
+- ["So37UIViewControllerAnimatedTransitioningP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So37UIViewControllerAnimatedTransitioningP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "state"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "toViewController"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "fromViewController"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "inNavigationController"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "interactiveTransitioning"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "isPresenting"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "isTransitioning"]
+- ["So40UIViewControllerInteractiveTransitioningP", "navigationController"]
+- ["So40UIViewControllerInteractiveTransitioningP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So40UIViewControllerInteractiveTransitioningP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "state"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "toViewController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "fromViewController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "inNavigationController"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "interactiveTransitioning"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "isPresenting"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "isTransitioning"]
+- ["So37UIViewControllerTransitioningDelegateP", "navigationController"]
+- ["So37UIViewControllerTransitioningDelegateP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["So37UIViewControllerTransitioningDelegateP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "state"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "toViewController"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "fromViewController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "inNavigationController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "interactiveTransitioning"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isPresenting"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isTransitioning"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "navigationController"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "navigationControllerPreferredInterfaceOrientationForPresentation"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "navigationControllerSupportedInterfaceOrientations"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "state"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "toViewController"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+depends-nominal:
+- !private "Sb"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "SH"
+- "4Hero0A22ProgressRunnerDelegateP"
+- "4Hero0A10TransitionC"
+- !private "4Hero0A15TransitionStateO"
+- !private "s25LosslessStringConvertibleP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So31UINavigationControllerOperationV"
+- !private "SY"
+- "So30UINavigationControllerDelegateP"
+- "So26UITabBarControllerDelegateP"
+- "So37UIViewControllerAnimatedTransitioningP"
+- "So40UIViewControllerInteractiveTransitioningP"
+- "So37UIViewControllerTransitioningDelegateP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MetalKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/ned/XCode/rogers 1/Chat/Pods/Target Support Files/Hero/Hero-umbrella.h"
+- "/Users/ned/XCode/rogers 1/Chat/build/Pods.build/Debug-iphonesimulator/Hero.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/MetalKit.framework/Headers/MetalKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f2de7c226888c846304261ab756354a6"

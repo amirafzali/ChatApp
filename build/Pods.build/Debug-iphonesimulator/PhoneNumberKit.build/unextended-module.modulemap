@@ -1,0 +1,10 @@
+framework module PhoneNumberKit {
+  umbrella header "PhoneNumberKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module PhoneNumberKit.__Swift {
+    exclude header "PhoneNumberKit-Swift.h"
+}

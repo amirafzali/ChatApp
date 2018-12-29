@@ -1,0 +1,11 @@
+framework module PhoneNumberKit {
+  umbrella header "PhoneNumberKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module PhoneNumberKit.Swift {
+    header "PhoneNumberKit-Swift.h"
+    requires objc
+}

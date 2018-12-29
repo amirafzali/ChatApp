@@ -1,0 +1,332 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "PhoneNumberCountryCodeSource"
+- "PhoneNumberError"
+- "PhoneNumberFormat"
+- "PhoneNumberType"
+- "PhoneNumberConstants"
+- "PhoneNumberPatterns"
+provides-nominal:
+- "14PhoneNumberKit0aB17CountryCodeSourceO"
+- "14PhoneNumberKit0aB5ErrorO"
+- "14PhoneNumberKit0aB6FormatO"
+- "14PhoneNumberKit0aB4TypeO"
+- "14PhoneNumberKit0aB9ConstantsV"
+- "14PhoneNumberKit0aB8PatternsV"
+provides-member:
+- ["14PhoneNumberKit0aB17CountryCodeSourceO", ""]
+- ["14PhoneNumberKit0aB5ErrorO", ""]
+- ["14PhoneNumberKit0aB6FormatO", ""]
+- ["14PhoneNumberKit0aB4TypeO", ""]
+- ["14PhoneNumberKit0aB9ConstantsV", ""]
+- ["14PhoneNumberKit0aB8PatternsV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "Dictionary"
+- "Error"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "LocalizedError"
+- !private "NSLocalizedString"
+- "PhoneNumberConstants"
+- "PhoneNumberCountryCodeSource"
+- "PhoneNumberError"
+- "PhoneNumberFormat"
+- "PhoneNumberPatterns"
+- "PhoneNumberType"
+- "String"
+- "StringLiteralType"
+- "UnicodeScalarType"
+depends-member:
+- ["SK", "init"]
+- ["SK", "init"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- ["SL", "init"]
+- ["SL", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["Se", "init"]
+- ["Se", "init"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SQ", "NSLocalizedString"]
+- ["SQ", ""]
+- ["SQ", "_code"]
+- ["SQ", "_domain"]
+- ["SQ", "_getEmbeddedNSError"]
+- ["SQ", "_userInfo"]
+- ["SQ", "deprecated"]
+- ["SQ", "errorDescription"]
+- ["SQ", "failureReason"]
+- ["SQ", "generalError"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "helpAnchor"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- ["SQ", "invalidCountryCode"]
+- ["SQ", "notANumber"]
+- ["SQ", "recoverySuggestion"]
+- ["SQ", "tooLong"]
+- ["SQ", "tooShort"]
+- ["SQ", "unknownType"]
+- !private ["s5ErrorP", "NSLocalizedString"]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- ["s5ErrorP", "deprecated"]
+- ["s5ErrorP", "errorDescription"]
+- ["s5ErrorP", "failureReason"]
+- ["s5ErrorP", "generalError"]
+- ["s5ErrorP", "hash"]
+- ["s5ErrorP", "hashValue"]
+- ["s5ErrorP", "helpAnchor"]
+- ["s5ErrorP", "invalidCountryCode"]
+- ["s5ErrorP", "notANumber"]
+- ["s5ErrorP", "recoverySuggestion"]
+- ["s5ErrorP", "tooLong"]
+- ["s5ErrorP", "tooShort"]
+- ["s5ErrorP", "unknownType"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["SH", "NSLocalizedString"]
+- ["SH", ""]
+- ["SH", "_code"]
+- ["SH", "_domain"]
+- ["SH", "_getEmbeddedNSError"]
+- ["SH", "_userInfo"]
+- ["SH", "deprecated"]
+- ["SH", "errorDescription"]
+- ["SH", "failureReason"]
+- ["SH", "generalError"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "helpAnchor"]
+- ["SH", "init"]
+- ["SH", "init"]
+- ["SH", "invalidCountryCode"]
+- ["SH", "notANumber"]
+- ["SH", "recoverySuggestion"]
+- ["SH", "tooLong"]
+- ["SH", "tooShort"]
+- ["SH", "unknownType"]
+- !private ["s6HasherV", "combine"]
+- !private ["10Foundation14LocalizedErrorP", "NSLocalizedString"]
+- ["10Foundation14LocalizedErrorP", ""]
+- ["10Foundation14LocalizedErrorP", "_code"]
+- ["10Foundation14LocalizedErrorP", "_domain"]
+- ["10Foundation14LocalizedErrorP", "_getEmbeddedNSError"]
+- ["10Foundation14LocalizedErrorP", "_userInfo"]
+- ["10Foundation14LocalizedErrorP", "deprecated"]
+- ["10Foundation14LocalizedErrorP", "errorDescription"]
+- ["10Foundation14LocalizedErrorP", "failureReason"]
+- ["10Foundation14LocalizedErrorP", "generalError"]
+- ["10Foundation14LocalizedErrorP", "hash"]
+- ["10Foundation14LocalizedErrorP", "hashValue"]
+- ["10Foundation14LocalizedErrorP", "helpAnchor"]
+- ["10Foundation14LocalizedErrorP", "invalidCountryCode"]
+- ["10Foundation14LocalizedErrorP", "notANumber"]
+- ["10Foundation14LocalizedErrorP", "recoverySuggestion"]
+- ["10Foundation14LocalizedErrorP", "tooLong"]
+- ["10Foundation14LocalizedErrorP", "tooShort"]
+- ["10Foundation14LocalizedErrorP", "unknownType"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["14PhoneNumberKit0aB9ConstantsV", "defaultCountry"]
+- ["14PhoneNumberKit0aB9ConstantsV", "defaultExtnPrefix"]
+- ["14PhoneNumberKit0aB9ConstantsV", "digitPlaceholder"]
+- ["14PhoneNumberKit0aB9ConstantsV", "init"]
+- ["14PhoneNumberKit0aB9ConstantsV", "longPhoneNumber"]
+- ["14PhoneNumberKit0aB9ConstantsV", "maxInputStringLength"]
+- ["14PhoneNumberKit0aB9ConstantsV", "maxLengthCountryCode"]
+- ["14PhoneNumberKit0aB9ConstantsV", "maxLengthForNSN"]
+- ["14PhoneNumberKit0aB9ConstantsV", "minLengthForNSN"]
+- ["14PhoneNumberKit0aB9ConstantsV", "nonBreakingSpace"]
+- ["14PhoneNumberKit0aB9ConstantsV", "plusChars"]
+- ["14PhoneNumberKit0aB9ConstantsV", "separatorBeforeNationalNumber"]
+- ["14PhoneNumberKit0aB9ConstantsV", "validDigitsString"]
+- ["14PhoneNumberKit0aB17CountryCodeSourceO", "__derived_enum_equals"]
+- ["14PhoneNumberKit0aB17CountryCodeSourceO", "defaultCountry"]
+- ["14PhoneNumberKit0aB17CountryCodeSourceO", "deinit"]
+- ["14PhoneNumberKit0aB17CountryCodeSourceO", "hash"]
+- ["14PhoneNumberKit0aB17CountryCodeSourceO", "hashValue"]
+- ["14PhoneNumberKit0aB17CountryCodeSourceO", "numberWithIDD"]
+- ["14PhoneNumberKit0aB17CountryCodeSourceO", "numberWithPlusSign"]
+- ["14PhoneNumberKit0aB17CountryCodeSourceO", "numberWithoutPlusSign"]
+- !private ["14PhoneNumberKit0aB5ErrorO", "NSLocalizedString"]
+- ["14PhoneNumberKit0aB5ErrorO", "String"]
+- ["14PhoneNumberKit0aB5ErrorO", "__derived_enum_equals"]
+- ["14PhoneNumberKit0aB5ErrorO", "_code"]
+- ["14PhoneNumberKit0aB5ErrorO", "_domain"]
+- ["14PhoneNumberKit0aB5ErrorO", "_getEmbeddedNSError"]
+- ["14PhoneNumberKit0aB5ErrorO", "_userInfo"]
+- ["14PhoneNumberKit0aB5ErrorO", "deinit"]
+- ["14PhoneNumberKit0aB5ErrorO", "deprecated"]
+- ["14PhoneNumberKit0aB5ErrorO", "errorDescription"]
+- ["14PhoneNumberKit0aB5ErrorO", "failureReason"]
+- ["14PhoneNumberKit0aB5ErrorO", "generalError"]
+- ["14PhoneNumberKit0aB5ErrorO", "hash"]
+- ["14PhoneNumberKit0aB5ErrorO", "hashValue"]
+- ["14PhoneNumberKit0aB5ErrorO", "helpAnchor"]
+- ["14PhoneNumberKit0aB5ErrorO", "invalidCountryCode"]
+- ["14PhoneNumberKit0aB5ErrorO", "notANumber"]
+- ["14PhoneNumberKit0aB5ErrorO", "recoverySuggestion"]
+- ["14PhoneNumberKit0aB5ErrorO", "tooLong"]
+- ["14PhoneNumberKit0aB5ErrorO", "tooShort"]
+- ["14PhoneNumberKit0aB5ErrorO", "unknownType"]
+- ["14PhoneNumberKit0aB6FormatO", "__derived_enum_equals"]
+- ["14PhoneNumberKit0aB6FormatO", "deinit"]
+- ["14PhoneNumberKit0aB6FormatO", "e164"]
+- ["14PhoneNumberKit0aB6FormatO", "hash"]
+- ["14PhoneNumberKit0aB6FormatO", "hashValue"]
+- ["14PhoneNumberKit0aB6FormatO", "international"]
+- ["14PhoneNumberKit0aB6FormatO", "national"]
+- ["14PhoneNumberKit0aB8PatternsV", "allNormalizationMappings"]
+- ["14PhoneNumberKit0aB8PatternsV", "capturingDigitPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "characterClassPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "eligibleAsYouTypePattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "extnPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "fgPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "firstGroupPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "formatPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "iddPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "init"]
+- ["14PhoneNumberKit0aB8PatternsV", "leadingPlusCharsPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "nationalPrefixParsingPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "npPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "prefixSeparatorPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "secondNumberStartPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "standaloneDigitPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "unwantedEndPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "validPhoneNumberPattern"]
+- ["14PhoneNumberKit0aB8PatternsV", "validStartPattern"]
+- ["14PhoneNumberKit0aB4TypeO", "__derived_enum_equals"]
+- ["14PhoneNumberKit0aB4TypeO", "deinit"]
+- ["14PhoneNumberKit0aB4TypeO", "fixedLine"]
+- ["14PhoneNumberKit0aB4TypeO", "fixedOrMobile"]
+- ["14PhoneNumberKit0aB4TypeO", "hash"]
+- ["14PhoneNumberKit0aB4TypeO", "hashValue"]
+- ["14PhoneNumberKit0aB4TypeO", "mobile"]
+- ["14PhoneNumberKit0aB4TypeO", "notParsed"]
+- ["14PhoneNumberKit0aB4TypeO", "pager"]
+- ["14PhoneNumberKit0aB4TypeO", "personalNumber"]
+- ["14PhoneNumberKit0aB4TypeO", "premiumRate"]
+- ["14PhoneNumberKit0aB4TypeO", "sharedCost"]
+- ["14PhoneNumberKit0aB4TypeO", "tollFree"]
+- ["14PhoneNumberKit0aB4TypeO", "uan"]
+- ["14PhoneNumberKit0aB4TypeO", "unknown"]
+- ["14PhoneNumberKit0aB4TypeO", "voicemail"]
+- ["14PhoneNumberKit0aB4TypeO", "voip"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- ["ST", "init"]
+- ["ST", "init"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- "SK"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- "SE"
+- "SQ"
+- "s5ErrorP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "SH"
+- !private "s6HasherV"
+- "10Foundation14LocalizedErrorP"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- "14PhoneNumberKit0aB9ConstantsV"
+- "14PhoneNumberKit0aB17CountryCodeSourceO"
+- "14PhoneNumberKit0aB5ErrorO"
+- "14PhoneNumberKit0aB6FormatO"
+- "14PhoneNumberKit0aB8PatternsV"
+- "14PhoneNumberKit0aB4TypeO"
+- "Sm"
+- "ST"
+- "SS"
+- "Sy"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/ned/XCode/rogers 1/Chat/Pods/Target Support Files/PhoneNumberKit/PhoneNumberKit-umbrella.h"
+- "/Users/ned/XCode/rogers 1/Chat/build/Pods.build/Debug-iphonesimulator/PhoneNumberKit.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "47bd744688f7c871da0d11f5e5aed30d"

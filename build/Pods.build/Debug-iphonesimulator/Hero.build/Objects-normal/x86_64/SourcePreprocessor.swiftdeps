@@ -1,0 +1,437 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SourcePreprocessor"
+provides-nominal:
+- "4Hero18SourcePreprocessorC"
+provides-member:
+- ["4Hero18SourcePreprocessorC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- "AssignmentPrecedence"
+- "BasePreprocessor"
+- "SourcePreprocessor"
+- "UIView"
+depends-member:
+- ["4Hero16BasePreprocessorC", "UIView"]
+- ["4Hero16BasePreprocessorC", ""]
+- !private ["4Hero16BasePreprocessorC", "context"]
+- ["4Hero16BasePreprocessorC", "init"]
+- !private ["4Hero16BasePreprocessorC", "init"]
+- ["4Hero16BasePreprocessorC", "prepareFor"]
+- ["4Hero16BasePreprocessorC", "process"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So7CALayerC", "contentsRect"]
+- !private ["So7CALayerC", "contentsScale"]
+- !private ["So7CALayerC", "cornerRadius"]
+- !private ["So7CALayerC", "flatTransformTo"]
+- !private ["So7CALayerC", "position"]
+- !private ["So7CALayerC", "shadowColor"]
+- !private ["So7CALayerC", "shadowOffset"]
+- !private ["So7CALayerC", "shadowOpacity"]
+- !private ["So7CALayerC", "shadowPath"]
+- !private ["So7CALayerC", "shadowRadius"]
+- !private ["So15CALayerDelegateP", "bounds"]
+- !private ["So15CALayerDelegateP", "convert"]
+- !private ["So15CALayerDelegateP", "layer"]
+- !private ["So15CALayerDelegateP", "superview"]
+- !private ["So13CAMediaTimingP", "contentsRect"]
+- !private ["So13CAMediaTimingP", "contentsScale"]
+- !private ["So13CAMediaTimingP", "cornerRadius"]
+- !private ["So13CAMediaTimingP", "flatTransformTo"]
+- !private ["So13CAMediaTimingP", "position"]
+- !private ["So13CAMediaTimingP", "shadowColor"]
+- !private ["So13CAMediaTimingP", "shadowOffset"]
+- !private ["So13CAMediaTimingP", "shadowOpacity"]
+- !private ["So13CAMediaTimingP", "shadowPath"]
+- !private ["So13CAMediaTimingP", "shadowRadius"]
+- !private ["So6CGRectV", "size"]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "bounds"]
+- !private ["s7CVarArgP", "contentsRect"]
+- !private ["s7CVarArgP", "contentsScale"]
+- !private ["s7CVarArgP", "convert"]
+- !private ["s7CVarArgP", "cornerRadius"]
+- !private ["s7CVarArgP", "flatTransformTo"]
+- !private ["s7CVarArgP", "layer"]
+- !private ["s7CVarArgP", "position"]
+- !private ["s7CVarArgP", "shadowColor"]
+- !private ["s7CVarArgP", "shadowOffset"]
+- !private ["s7CVarArgP", "shadowOpacity"]
+- !private ["s7CVarArgP", "shadowPath"]
+- !private ["s7CVarArgP", "shadowRadius"]
+- !private ["s7CVarArgP", "superview"]
+- !private ["s28CustomDebugStringConvertibleP", "bounds"]
+- !private ["s28CustomDebugStringConvertibleP", "container"]
+- !private ["s28CustomDebugStringConvertibleP", "contentsRect"]
+- !private ["s28CustomDebugStringConvertibleP", "contentsScale"]
+- !private ["s28CustomDebugStringConvertibleP", "convert"]
+- !private ["s28CustomDebugStringConvertibleP", "cornerRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "destinationView"]
+- !private ["s28CustomDebugStringConvertibleP", "flatTransformTo"]
+- !private ["s28CustomDebugStringConvertibleP", "global"]
+- !private ["s28CustomDebugStringConvertibleP", "layer"]
+- !private ["s28CustomDebugStringConvertibleP", "position"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowColor"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowOffset"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowOpacity"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowPath"]
+- !private ["s28CustomDebugStringConvertibleP", "shadowRadius"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "sourceView"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "superview"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s29CustomPlaygroundQuickLookableP", "size"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "container"]
+- !private ["s17CustomReflectableP", "destinationView"]
+- !private ["s17CustomReflectableP", "global"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s17CustomReflectableP", "sourceView"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "bounds"]
+- !private ["s23CustomStringConvertibleP", "contentsRect"]
+- !private ["s23CustomStringConvertibleP", "contentsScale"]
+- !private ["s23CustomStringConvertibleP", "convert"]
+- !private ["s23CustomStringConvertibleP", "cornerRadius"]
+- !private ["s23CustomStringConvertibleP", "flatTransformTo"]
+- !private ["s23CustomStringConvertibleP", "layer"]
+- !private ["s23CustomStringConvertibleP", "position"]
+- !private ["s23CustomStringConvertibleP", "shadowColor"]
+- !private ["s23CustomStringConvertibleP", "shadowOffset"]
+- !private ["s23CustomStringConvertibleP", "shadowOpacity"]
+- !private ["s23CustomStringConvertibleP", "shadowPath"]
+- !private ["s23CustomStringConvertibleP", "shadowRadius"]
+- !private ["s23CustomStringConvertibleP", "superview"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "container"]
+- !private ["Se", "destinationView"]
+- !private ["Se", "global"]
+- !private ["Se", "size"]
+- !private ["Se", "sourceView"]
+- !private ["Se", "subscript"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "container"]
+- !private ["SE", "destinationView"]
+- !private ["SE", "global"]
+- !private ["SE", "size"]
+- !private ["SE", "sourceView"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "bounds"]
+- !private ["SQ", "container"]
+- !private ["SQ", "contentsRect"]
+- !private ["SQ", "contentsScale"]
+- !private ["SQ", "convert"]
+- !private ["SQ", "cornerRadius"]
+- !private ["SQ", "destinationView"]
+- !private ["SQ", "flatTransformTo"]
+- !private ["SQ", "global"]
+- !private ["SQ", "layer"]
+- !private ["SQ", "position"]
+- !private ["SQ", "shadowColor"]
+- !private ["SQ", "shadowOffset"]
+- !private ["SQ", "shadowOpacity"]
+- !private ["SQ", "shadowPath"]
+- !private ["SQ", "shadowRadius"]
+- !private ["SQ", "size"]
+- !private ["SQ", "sourceView"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "superview"]
+- !private ["s25ExpressibleByArrayLiteralP", "contentsRect"]
+- !private ["s25ExpressibleByArrayLiteralP", "contentsScale"]
+- !private ["s25ExpressibleByArrayLiteralP", "coordinateSpace"]
+- !private ["s25ExpressibleByArrayLiteralP", "cornerRadius"]
+- !private ["s25ExpressibleByArrayLiteralP", "position"]
+- !private ["s25ExpressibleByArrayLiteralP", "shadowColor"]
+- !private ["s25ExpressibleByArrayLiteralP", "shadowOffset"]
+- !private ["s25ExpressibleByArrayLiteralP", "shadowOpacity"]
+- !private ["s25ExpressibleByArrayLiteralP", "shadowPath"]
+- !private ["s25ExpressibleByArrayLiteralP", "shadowRadius"]
+- !private ["s25ExpressibleByArrayLiteralP", "size"]
+- !private ["s25ExpressibleByArrayLiteralP", "source"]
+- !private ["s25ExpressibleByArrayLiteralP", "transform"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s23ExpressibleByNilLiteralP", "container"]
+- !private ["s23ExpressibleByNilLiteralP", "destinationView"]
+- !private ["s23ExpressibleByNilLiteralP", "global"]
+- !private ["s23ExpressibleByNilLiteralP", "sourceView"]
+- !private ["s23ExpressibleByNilLiteralP", "subscript"]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "bounds"]
+- !private ["SH", "container"]
+- !private ["SH", "contentsRect"]
+- !private ["SH", "contentsScale"]
+- !private ["SH", "convert"]
+- !private ["SH", "cornerRadius"]
+- !private ["SH", "destinationView"]
+- !private ["SH", "flatTransformTo"]
+- !private ["SH", "global"]
+- !private ["SH", "layer"]
+- !private ["SH", "position"]
+- !private ["SH", "shadowColor"]
+- !private ["SH", "shadowOffset"]
+- !private ["SH", "shadowOpacity"]
+- !private ["SH", "shadowPath"]
+- !private ["SH", "shadowRadius"]
+- !private ["SH", "sourceView"]
+- !private ["SH", "subscript"]
+- !private ["SH", "superview"]
+- !private ["4Hero0A10CompatibleP", "bounds"]
+- !private ["4Hero0A10CompatibleP", "convert"]
+- !private ["4Hero0A10CompatibleP", "layer"]
+- !private ["4Hero0A10CompatibleP", "superview"]
+- !private ["4Hero0A7ContextC", "container"]
+- !private ["4Hero0A7ContextC", "destinationView"]
+- !private ["4Hero0A7ContextC", "sourceView"]
+- !private ["4Hero0A7ContextC", "subscript"]
+- !private ["4Hero0A15CoordinateSpaceO", "global"]
+- ["4Hero0A12PreprocessorP", ""]
+- !private ["4Hero0A12PreprocessorP", "context"]
+- !private ["4Hero0A12PreprocessorP", "init"]
+- !private ["4Hero0A12PreprocessorP", "init"]
+- !private ["4Hero0A12PreprocessorP", "prepareFor"]
+- !private ["4Hero0A11TargetStateV", "contentsRect"]
+- !private ["4Hero0A11TargetStateV", "contentsScale"]
+- !private ["4Hero0A11TargetStateV", "coordinateSpace"]
+- !private ["4Hero0A11TargetStateV", "cornerRadius"]
+- !private ["4Hero0A11TargetStateV", "position"]
+- !private ["4Hero0A11TargetStateV", "shadowColor"]
+- !private ["4Hero0A11TargetStateV", "shadowOffset"]
+- !private ["4Hero0A11TargetStateV", "shadowOpacity"]
+- !private ["4Hero0A11TargetStateV", "shadowPath"]
+- !private ["4Hero0A11TargetStateV", "shadowRadius"]
+- !private ["4Hero0A11TargetStateV", "size"]
+- !private ["4Hero0A11TargetStateV", "source"]
+- !private ["4Hero0A11TargetStateV", "transform"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["So8NSCodingP", "bounds"]
+- !private ["So8NSCodingP", "contentsRect"]
+- !private ["So8NSCodingP", "contentsScale"]
+- !private ["So8NSCodingP", "convert"]
+- !private ["So8NSCodingP", "cornerRadius"]
+- !private ["So8NSCodingP", "flatTransformTo"]
+- !private ["So8NSCodingP", "layer"]
+- !private ["So8NSCodingP", "position"]
+- !private ["So8NSCodingP", "shadowColor"]
+- !private ["So8NSCodingP", "shadowOffset"]
+- !private ["So8NSCodingP", "shadowOpacity"]
+- !private ["So8NSCodingP", "shadowPath"]
+- !private ["So8NSCodingP", "shadowRadius"]
+- !private ["So8NSCodingP", "superview"]
+- !private ["So8NSObjectC", "bounds"]
+- !private ["So8NSObjectC", "contentsRect"]
+- !private ["So8NSObjectC", "contentsScale"]
+- !private ["So8NSObjectC", "convert"]
+- !private ["So8NSObjectC", "cornerRadius"]
+- !private ["So8NSObjectC", "flatTransformTo"]
+- !private ["So8NSObjectC", "layer"]
+- !private ["So8NSObjectC", "position"]
+- !private ["So8NSObjectC", "shadowColor"]
+- !private ["So8NSObjectC", "shadowOffset"]
+- !private ["So8NSObjectC", "shadowOpacity"]
+- !private ["So8NSObjectC", "shadowPath"]
+- !private ["So8NSObjectC", "shadowRadius"]
+- !private ["So8NSObjectC", "superview"]
+- !private ["So8NSObjectP", "bounds"]
+- !private ["So8NSObjectP", "contentsRect"]
+- !private ["So8NSObjectP", "contentsScale"]
+- !private ["So8NSObjectP", "convert"]
+- !private ["So8NSObjectP", "cornerRadius"]
+- !private ["So8NSObjectP", "flatTransformTo"]
+- !private ["So8NSObjectP", "layer"]
+- !private ["So8NSObjectP", "position"]
+- !private ["So8NSObjectP", "shadowColor"]
+- !private ["So8NSObjectP", "shadowOffset"]
+- !private ["So8NSObjectP", "shadowOpacity"]
+- !private ["So8NSObjectP", "shadowPath"]
+- !private ["So8NSObjectP", "shadowRadius"]
+- !private ["So8NSObjectP", "superview"]
+- !private ["So14NSSecureCodingP", "contentsRect"]
+- !private ["So14NSSecureCodingP", "contentsScale"]
+- !private ["So14NSSecureCodingP", "cornerRadius"]
+- !private ["So14NSSecureCodingP", "flatTransformTo"]
+- !private ["So14NSSecureCodingP", "position"]
+- !private ["So14NSSecureCodingP", "shadowColor"]
+- !private ["So14NSSecureCodingP", "shadowOffset"]
+- !private ["So14NSSecureCodingP", "shadowOpacity"]
+- !private ["So14NSSecureCodingP", "shadowPath"]
+- !private ["So14NSSecureCodingP", "shadowRadius"]
+- !private ["Sq", "container"]
+- !private ["Sq", "destinationView"]
+- !private ["Sq", "global"]
+- !private ["Sq", "sourceView"]
+- !private ["Sq", "subscript"]
+- ["4Hero18SourcePreprocessorC", "UIView"]
+- !private ["4Hero18SourcePreprocessorC", "context"]
+- ["4Hero18SourcePreprocessorC", "init"]
+- ["4Hero18SourcePreprocessorC", "prepareFor"]
+- ["4Hero18SourcePreprocessorC", "process"]
+- !private ["So29UIAccessibilityIdentificationP", "bounds"]
+- !private ["So29UIAccessibilityIdentificationP", "convert"]
+- !private ["So29UIAccessibilityIdentificationP", "layer"]
+- !private ["So29UIAccessibilityIdentificationP", "superview"]
+- !private ["So12UIAppearanceP", "bounds"]
+- !private ["So12UIAppearanceP", "convert"]
+- !private ["So12UIAppearanceP", "layer"]
+- !private ["So12UIAppearanceP", "superview"]
+- !private ["So21UIAppearanceContainerP", "bounds"]
+- !private ["So21UIAppearanceContainerP", "convert"]
+- !private ["So21UIAppearanceContainerP", "layer"]
+- !private ["So21UIAppearanceContainerP", "superview"]
+- !private ["So17UICoordinateSpaceP", "bounds"]
+- !private ["So17UICoordinateSpaceP", "convert"]
+- !private ["So17UICoordinateSpaceP", "layer"]
+- !private ["So17UICoordinateSpaceP", "superview"]
+- !private ["So13UIDynamicItemP", "bounds"]
+- !private ["So13UIDynamicItemP", "convert"]
+- !private ["So13UIDynamicItemP", "layer"]
+- !private ["So13UIDynamicItemP", "superview"]
+- !private ["So18UIFocusEnvironmentP", "bounds"]
+- !private ["So18UIFocusEnvironmentP", "convert"]
+- !private ["So18UIFocusEnvironmentP", "layer"]
+- !private ["So18UIFocusEnvironmentP", "superview"]
+- !private ["So11UIFocusItemP", "bounds"]
+- !private ["So11UIFocusItemP", "convert"]
+- !private ["So11UIFocusItemP", "layer"]
+- !private ["So11UIFocusItemP", "superview"]
+- !private ["So20UIFocusItemContainerP", "bounds"]
+- !private ["So20UIFocusItemContainerP", "convert"]
+- !private ["So20UIFocusItemContainerP", "layer"]
+- !private ["So20UIFocusItemContainerP", "superview"]
+- !private ["So30UIPasteConfigurationSupportingP", "bounds"]
+- !private ["So30UIPasteConfigurationSupportingP", "convert"]
+- !private ["So30UIPasteConfigurationSupportingP", "layer"]
+- !private ["So30UIPasteConfigurationSupportingP", "superview"]
+- !private ["So11UIResponderC", "bounds"]
+- !private ["So11UIResponderC", "convert"]
+- !private ["So11UIResponderC", "layer"]
+- !private ["So11UIResponderC", "superview"]
+- !private ["So30UIResponderStandardEditActionsP", "bounds"]
+- !private ["So30UIResponderStandardEditActionsP", "convert"]
+- !private ["So30UIResponderStandardEditActionsP", "layer"]
+- !private ["So30UIResponderStandardEditActionsP", "superview"]
+- !private ["So18UITraitEnvironmentP", "bounds"]
+- !private ["So18UITraitEnvironmentP", "convert"]
+- !private ["So18UITraitEnvironmentP", "layer"]
+- !private ["So18UITraitEnvironmentP", "superview"]
+- !private ["So23UIUserActivityRestoringP", "bounds"]
+- !private ["So23UIUserActivityRestoringP", "convert"]
+- !private ["So23UIUserActivityRestoringP", "layer"]
+- !private ["So23UIUserActivityRestoringP", "superview"]
+- !private ["So6UIViewC", "bounds"]
+- !private ["So6UIViewC", "convert"]
+- !private ["So6UIViewC", "layer"]
+- !private ["So6UIViewC", "superview"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "bounds"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "convert"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "layer"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "superview"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "bounds"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contentsRect"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "contentsScale"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "convert"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cornerRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "flatTransformTo"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "layer"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "position"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowOffset"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowOpacity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowPath"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "shadowRadius"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "superview"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "container"]
+- !private ["s21_ObjectiveCBridgeableP", "destinationView"]
+- !private ["s21_ObjectiveCBridgeableP", "global"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "sourceView"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- "4Hero16BasePreprocessorC"
+- !private "Sb"
+- !private "So7CALayerC"
+- !private "So15CALayerDelegateP"
+- !private "So13CAMediaTimingP"
+- !private "So6CGRectV"
+- !private "s7CVarArgP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "SH"
+- !private "4Hero0A10CompatibleP"
+- !private "4Hero0A7ContextC"
+- !private "4Hero0A15CoordinateSpaceO"
+- "4Hero0A12PreprocessorP"
+- !private "4Hero0A11TargetStateV"
+- !private "s25LosslessStringConvertibleP"
+- !private "So8NSCodingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- "4Hero18SourcePreprocessorC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MetalKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/ned/XCode/rogers 1/Chat/Pods/Target Support Files/Hero/Hero-umbrella.h"
+- "/Users/ned/XCode/rogers 1/Chat/build/Pods.build/Debug-iphonesimulator/Hero.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/MetalKit.framework/Headers/MetalKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "a0daa56152f28a9695c7339d19ae5da4"

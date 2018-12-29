@@ -1,0 +1,414 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HeroPlugin"
+provides-nominal:
+- "4Hero0A6PluginC"
+provides-member:
+- ["4Hero0A6PluginC", ""]
+- ["4Hero0A10TransitionC", ""]
+- ["4Hero0A6PluginC", "isEnabled"]
+- ["4Hero0A6PluginC", "enable"]
+- ["4Hero0A6PluginC", "disable"]
+- ["4Hero0A10TransitionC", "isEnabled"]
+- ["4Hero0A10TransitionC", "enable"]
+- ["4Hero0A10TransitionC", "disable"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- "Bool"
+- "BooleanLiteralType"
+- !private "FloatLiteralType"
+- "HeroAnimator"
+- "HeroContext"
+- "HeroPlugin"
+- "HeroPreprocessor"
+- "HeroTargetState"
+- "HeroTransition"
+- !private "IntegerLiteralType"
+- "NSObject"
+- "TimeInterval"
+- "UIView"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "index"]
+- !private ["Sa", "remove"]
+- !private ["s13ArrayProtocolP", "append"]
+- !private ["s13ArrayProtocolP", "index"]
+- !private ["s13ArrayProtocolP", "remove"]
+- !private ["SK", "append"]
+- !private ["SK", "index"]
+- !private ["SK", "remove"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "HeroTransition"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- ["s7CVarArgP", "animate"]
+- !private ["s7CVarArgP", "append"]
+- ["s7CVarArgP", "apply"]
+- ["s7CVarArgP", "canAnimate"]
+- ["s7CVarArgP", "changeTarget"]
+- ["s7CVarArgP", "clean"]
+- !private ["s7CVarArgP", "context"]
+- !private ["s7CVarArgP", "disable"]
+- !private ["s7CVarArgP", "enable"]
+- !private ["s7CVarArgP", "enabledPlugins"]
+- ["s7CVarArgP", "hero"]
+- !private ["s7CVarArgP", "index"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEnabled"]
+- ["s7CVarArgP", "process"]
+- !private ["s7CVarArgP", "remove"]
+- ["s7CVarArgP", "resume"]
+- ["s7CVarArgP", "seekTo"]
+- !private ["Sl", "append"]
+- !private ["Sl", "index"]
+- !private ["Sl", "remove"]
+- !private ["s28CustomDebugStringConvertibleP", "HeroTransition"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "animate"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- ["s28CustomDebugStringConvertibleP", "apply"]
+- ["s28CustomDebugStringConvertibleP", "canAnimate"]
+- ["s28CustomDebugStringConvertibleP", "changeTarget"]
+- ["s28CustomDebugStringConvertibleP", "clean"]
+- !private ["s28CustomDebugStringConvertibleP", "context"]
+- !private ["s28CustomDebugStringConvertibleP", "disable"]
+- !private ["s28CustomDebugStringConvertibleP", "enable"]
+- !private ["s28CustomDebugStringConvertibleP", "enabledPlugins"]
+- ["s28CustomDebugStringConvertibleP", "hero"]
+- !private ["s28CustomDebugStringConvertibleP", "index"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEnabled"]
+- ["s28CustomDebugStringConvertibleP", "process"]
+- !private ["s28CustomDebugStringConvertibleP", "remove"]
+- ["s28CustomDebugStringConvertibleP", "resume"]
+- ["s28CustomDebugStringConvertibleP", "seekTo"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "context"]
+- !private ["s17CustomReflectableP", "index"]
+- !private ["s17CustomReflectableP", "remove"]
+- !private ["s23CustomStringConvertibleP", "HeroTransition"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s23CustomStringConvertibleP", "animate"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- ["s23CustomStringConvertibleP", "apply"]
+- ["s23CustomStringConvertibleP", "canAnimate"]
+- ["s23CustomStringConvertibleP", "changeTarget"]
+- ["s23CustomStringConvertibleP", "clean"]
+- !private ["s23CustomStringConvertibleP", "context"]
+- !private ["s23CustomStringConvertibleP", "disable"]
+- !private ["s23CustomStringConvertibleP", "enable"]
+- !private ["s23CustomStringConvertibleP", "enabledPlugins"]
+- ["s23CustomStringConvertibleP", "hero"]
+- !private ["s23CustomStringConvertibleP", "index"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEnabled"]
+- ["s23CustomStringConvertibleP", "process"]
+- !private ["s23CustomStringConvertibleP", "remove"]
+- ["s23CustomStringConvertibleP", "resume"]
+- ["s23CustomStringConvertibleP", "seekTo"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "append"]
+- !private ["Se", "context"]
+- !private ["Se", "index"]
+- !private ["Se", "remove"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "append"]
+- !private ["SE", "context"]
+- !private ["SE", "index"]
+- !private ["SE", "remove"]
+- !private ["SQ", "HeroTransition"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- ["SQ", "animate"]
+- !private ["SQ", "append"]
+- ["SQ", "apply"]
+- ["SQ", "canAnimate"]
+- ["SQ", "changeTarget"]
+- ["SQ", "clean"]
+- !private ["SQ", "context"]
+- !private ["SQ", "disable"]
+- !private ["SQ", "enable"]
+- !private ["SQ", "enabledPlugins"]
+- ["SQ", "hero"]
+- !private ["SQ", "index"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isEnabled"]
+- ["SQ", "process"]
+- !private ["SQ", "remove"]
+- ["SQ", "resume"]
+- ["SQ", "seekTo"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "index"]
+- !private ["s25ExpressibleByArrayLiteralP", "remove"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s23ExpressibleByNilLiteralP", "context"]
+- !private ["SH", "HeroTransition"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- ["SH", "animate"]
+- !private ["SH", "append"]
+- ["SH", "apply"]
+- ["SH", "canAnimate"]
+- ["SH", "changeTarget"]
+- ["SH", "clean"]
+- !private ["SH", "context"]
+- !private ["SH", "disable"]
+- !private ["SH", "enable"]
+- !private ["SH", "enabledPlugins"]
+- ["SH", "hero"]
+- !private ["SH", "index"]
+- !private ["SH", "init"]
+- !private ["SH", "isEnabled"]
+- ["SH", "process"]
+- !private ["SH", "remove"]
+- ["SH", "resume"]
+- ["SH", "seekTo"]
+- !private ["4Hero0A8AnimatorP", "HeroTransition"]
+- ["4Hero0A8AnimatorP", ""]
+- ["4Hero0A8AnimatorP", "animate"]
+- ["4Hero0A8AnimatorP", "apply"]
+- ["4Hero0A8AnimatorP", "canAnimate"]
+- ["4Hero0A8AnimatorP", "changeTarget"]
+- ["4Hero0A8AnimatorP", "clean"]
+- !private ["4Hero0A8AnimatorP", "disable"]
+- !private ["4Hero0A8AnimatorP", "enable"]
+- ["4Hero0A8AnimatorP", "hero"]
+- ["4Hero0A8AnimatorP", "process"]
+- ["4Hero0A8AnimatorP", "resume"]
+- ["4Hero0A8AnimatorP", "seekTo"]
+- ["4Hero0A6PluginC", "Bool"]
+- ["4Hero0A6PluginC", "HeroContext"]
+- ["4Hero0A6PluginC", "HeroTargetState"]
+- ["4Hero0A6PluginC", "HeroTransition"]
+- ["4Hero0A6PluginC", "TimeInterval"]
+- ["4Hero0A6PluginC", "UIView"]
+- ["4Hero0A6PluginC", "animate"]
+- ["4Hero0A6PluginC", "apply"]
+- ["4Hero0A6PluginC", "canAnimate"]
+- ["4Hero0A6PluginC", "changeTarget"]
+- ["4Hero0A6PluginC", "clean"]
+- ["4Hero0A6PluginC", "context"]
+- ["4Hero0A6PluginC", "deinit"]
+- ["4Hero0A6PluginC", "disable"]
+- ["4Hero0A6PluginC", "enable"]
+- ["4Hero0A6PluginC", "hero"]
+- ["4Hero0A6PluginC", "init"]
+- ["4Hero0A6PluginC", "isEnabled"]
+- ["4Hero0A6PluginC", "process"]
+- ["4Hero0A6PluginC", "requirePerFrameCallback"]
+- ["4Hero0A6PluginC", "resume"]
+- ["4Hero0A6PluginC", "seekTo"]
+- !private ["4Hero0A12PreprocessorP", "HeroTransition"]
+- ["4Hero0A12PreprocessorP", ""]
+- ["4Hero0A12PreprocessorP", "animate"]
+- ["4Hero0A12PreprocessorP", "apply"]
+- ["4Hero0A12PreprocessorP", "canAnimate"]
+- ["4Hero0A12PreprocessorP", "changeTarget"]
+- ["4Hero0A12PreprocessorP", "clean"]
+- !private ["4Hero0A12PreprocessorP", "disable"]
+- !private ["4Hero0A12PreprocessorP", "enable"]
+- ["4Hero0A12PreprocessorP", "hero"]
+- ["4Hero0A12PreprocessorP", "process"]
+- ["4Hero0A12PreprocessorP", "resume"]
+- ["4Hero0A12PreprocessorP", "seekTo"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "context"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "disable"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "enable"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "enabledPlugins"]
+- !private ["4Hero0A22ProgressRunnerDelegateP", "isEnabled"]
+- ["4Hero0A10TransitionC", "Bool"]
+- ["4Hero0A10TransitionC", "HeroPlugin"]
+- !private ["4Hero0A10TransitionC", "context"]
+- ["4Hero0A10TransitionC", "disable"]
+- ["4Hero0A10TransitionC", "enable"]
+- !private ["4Hero0A10TransitionC", "enabledPlugins"]
+- ["4Hero0A10TransitionC", "isEnabled"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["SM", "append"]
+- !private ["SM", "index"]
+- !private ["SM", "remove"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "HeroContext"]
+- ["So8NSObjectC", "HeroPlugin"]
+- ["So8NSObjectC", "HeroTargetState"]
+- ["So8NSObjectC", "HeroTransition"]
+- ["So8NSObjectC", "TimeInterval"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "animate"]
+- ["So8NSObjectC", "apply"]
+- ["So8NSObjectC", "canAnimate"]
+- ["So8NSObjectC", "changeTarget"]
+- ["So8NSObjectC", "clean"]
+- ["So8NSObjectC", "context"]
+- ["So8NSObjectC", "disable"]
+- ["So8NSObjectC", "enable"]
+- !private ["So8NSObjectC", "enabledPlugins"]
+- ["So8NSObjectC", "hero"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "isEnabled"]
+- ["So8NSObjectC", "process"]
+- ["So8NSObjectC", "requirePerFrameCallback"]
+- ["So8NSObjectC", "resume"]
+- ["So8NSObjectC", "seekTo"]
+- !private ["So8NSObjectP", "HeroTransition"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "animate"]
+- ["So8NSObjectP", "apply"]
+- ["So8NSObjectP", "canAnimate"]
+- ["So8NSObjectP", "changeTarget"]
+- ["So8NSObjectP", "clean"]
+- !private ["So8NSObjectP", "context"]
+- !private ["So8NSObjectP", "disable"]
+- !private ["So8NSObjectP", "enable"]
+- !private ["So8NSObjectP", "enabledPlugins"]
+- ["So8NSObjectP", "hero"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isEnabled"]
+- ["So8NSObjectP", "process"]
+- ["So8NSObjectP", "resume"]
+- ["So8NSObjectP", "seekTo"]
+- !private ["Sq", "context"]
+- !private ["Sk", "append"]
+- !private ["Sk", "index"]
+- !private ["Sk", "remove"]
+- !private ["Sm", "append"]
+- !private ["Sm", "index"]
+- !private ["Sm", "remove"]
+- !private ["ST", "append"]
+- !private ["ST", "index"]
+- !private ["ST", "remove"]
+- !private ["So30UINavigationControllerDelegateP", "context"]
+- !private ["So30UINavigationControllerDelegateP", "disable"]
+- !private ["So30UINavigationControllerDelegateP", "enable"]
+- !private ["So30UINavigationControllerDelegateP", "enabledPlugins"]
+- !private ["So30UINavigationControllerDelegateP", "isEnabled"]
+- !private ["So26UITabBarControllerDelegateP", "context"]
+- !private ["So26UITabBarControllerDelegateP", "disable"]
+- !private ["So26UITabBarControllerDelegateP", "enable"]
+- !private ["So26UITabBarControllerDelegateP", "enabledPlugins"]
+- !private ["So26UITabBarControllerDelegateP", "isEnabled"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "context"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "disable"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "enable"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "enabledPlugins"]
+- !private ["So37UIViewControllerAnimatedTransitioningP", "isEnabled"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "context"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "disable"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "enable"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "enabledPlugins"]
+- !private ["So40UIViewControllerInteractiveTransitioningP", "isEnabled"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "context"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "disable"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "enable"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "enabledPlugins"]
+- !private ["So37UIViewControllerTransitioningDelegateP", "isEnabled"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "index"]
+- !private ["s24_DestructorSafeContainerP", "remove"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "index"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "remove"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "HeroTransition"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "animate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "apply"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "canAnimate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "changeTarget"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "clean"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "context"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "disable"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "enable"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "enabledPlugins"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "hero"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isEnabled"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "process"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "resume"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "seekTo"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "context"]
+- !private ["s21_ObjectiveCBridgeableP", "index"]
+- !private ["s21_ObjectiveCBridgeableP", "remove"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "Sb"
+- "s7CVarArgP"
+- !private "Sl"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "SH"
+- "4Hero0A8AnimatorP"
+- "4Hero0A6PluginC"
+- "4Hero0A12PreprocessorP"
+- !private "4Hero0A22ProgressRunnerDelegateP"
+- "4Hero0A10TransitionC"
+- !private "s25LosslessStringConvertibleP"
+- !private "SM"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "ST"
+- !private "So30UINavigationControllerDelegateP"
+- !private "So26UITabBarControllerDelegateP"
+- !private "So37UIViewControllerAnimatedTransitioningP"
+- !private "So40UIViewControllerInteractiveTransitioningP"
+- !private "So37UIViewControllerTransitioningDelegateP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ModelIO.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/MetalKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/ned/XCode/rogers 1/Chat/Pods/Target Support Files/Hero/Hero-umbrella.h"
+- "/Users/ned/XCode/rogers 1/Chat/build/Pods.build/Debug-iphonesimulator/Hero.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/ModelIO.framework/Headers/ModelIO.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/MetalKit.framework/Headers/MetalKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "f369cf4cc3e17c6ecd213b1def1d70a3"
