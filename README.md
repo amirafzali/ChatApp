@@ -1,4 +1,4 @@
-# ChatApp (YuteChat) - Amir Afzali
+# ChatApp - Amir Afzali
   A fully integrated photo messaging application made with Swift for iOS devices.
 
 <h3>Login Page</h3>
